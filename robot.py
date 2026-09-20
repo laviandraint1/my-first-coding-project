@@ -1,3 +1,3 @@
-name = "Alisha"
-print("I am Alisha Robot Assistant")
-print("I am learning Phyton and robotics.")
+name = input("What is your name?")
+print("Hello, " + name +"!")
+print("I am learning Phyton and robotics,")
