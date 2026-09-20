@@ -1,2 +1,3 @@
-print("Hello, GitHub!") 
-print("i'm Lavi and i'm learning Phyton"!) 
+name:"alisha"
+print("Hello,"+ name +"!"
+print(I am learning Phyton and robotics.')
